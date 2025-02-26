@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Fredy
-- 👀 I’m interested in web deveopment and UI design
-- 👨‍🎓 I'm currently a student at Universitas Sebelas Maret, Indonesia
+- 👋 Hi, I’m Fredy.
+- 👀 I’m interested in web development and UI/UX design.
+- 👨‍🎓 I'm currently a student at Universitas Sebelas Maret, Indonesia.
 
 <!---
 FredyRamadhan/FredyRamadhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
