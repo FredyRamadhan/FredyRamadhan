@@ -1,83 +1,116 @@
-# <img src="https://media.giphy.com/media/hvRJCLzdzTCW4/giphy.gif" width="35"> Fredy Ramadhan
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=407076&center=true&vCenter=true&width=435&lines=Creating+modern+apps;UI%2FUX+Design+Enthusiast;Student+@+Universitas+Sebelas+Maret;I+love+chicken+(as+pets)🐥" alt="Typing SVG" />
-</p>
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:#1a1b26,50:#284b63,100:#7aa2f7&height=200&section=header&text=Fredy%20Ramadhan&fontSize=42&fontColor=ffffff&fontAlignY=36" width="100%" alt="Fredy Ramadhan Header" />
 
-![Visitors](https://komarev.com/ghpvc/?username=FredyRamadhan&color=407076&style=for-the-badge&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/FredyRamadhan?color=97B1A6&label=Followers&style=for-the-badge&logo=github)](https://github.com/FredyRamadhan)
-[![GitHub Stars](https://img.shields.io/github/stars/FredyRamadhan?color=ffd700&label=Stars&style=for-the-badge&logo=github)](https://github.com/FredyRamadhan)
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Creating+modern+apps;UI%2FUX+Design+Enthusiast;Student+%40+Universitas+Sebelas+Maret;I+love+chicken+(as+pets)+%F0%9F%90%A4" alt="Typing SVG" />
+  </p>
 
+  <p align="center">
+    <a href="https://github.com/FredyRamadhan">
+      <img src="https://komarev.com/ghpvc/?username=FredyRamadhan&color=7aa2f7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+    </a>
+    <a href="https://github.com/FredyRamadhan?tab=followers">
+      <img src="https://img.shields.io/github/followers/FredyRamadhan?color=7aa2f7&label=Followers&style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
+    </a>
+    <a href="https://github.com/FredyRamadhan?tab=repositories">
+      <img src="https://img.shields.io/github/stars/FredyRamadhan?color=e0af68&label=Stars&style=for-the-badge&logo=github&logoColor=white" alt="Stars" />
+    </a>
+  </p>
 </div>
-</br>
-</br>
 
+---
 
 ## 🎯 About Me
 
-```python
-
-class Developer:
-  def __init__(self):
-    self.name = "Fredy Ramadhan"
-    self.role = "Student & Developer"
-    self.institution = "Universitas Sebelas Maret"
-    self.focus = ["Fullstack Development", "UI/UX Design", "Modern Web Apps"]
-    self.currently_learning = ["Laravel", "Django", "Vue"]
-    self.interests = ["Minimalist Design", "Modern Frameworks", "Eager Learning"]
-
-  def motto(self):
-    return "I love chicken (as pets)"
-```
-</br>
-</br>
-
-## ⚙ Tech Stack
-
-<div align="center"> 
-  
-  [![My Skills](https://skillicons.dev/icons?i=laravel,django,vue,kotlin,nodejs,flask,express&theme=dark)](https://skillicons.dev)
-  <!-- <a href="https://skillicons.dev"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dlaravel,django,vue,py,ts,figma%26theme%3Ddark" /> </a>  -->
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h4>🎓 Academic Journey</h4>
+        <p>Undergraduate student at <b>Universitas Sebelas Maret</b>, building strong foundations in software engineering and modern computing.</p>
+      </td>
+      <td width="50%" valign="top">
+        <h4>💻 Engineering Focus</h4>
+        <p>Passionate about crafting responsive <b>Fullstack Web Applications</b> with intuitive UI/UX design and clean, scalable code.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h4>🌱 Current Deep-Dive</h4>
+        <p>Actively leveling up in modern frameworks including <b>Laravel</b>, <b>Django</b>, <b>Vue.js</b>, and modern cloud integrations.</p>
+      </td>
+      <td width="50%" valign="top">
+        <h4>🐥 Beyond The Screen</h4>
+        <p>A minimalist design enthusiast, eager continuous learner, and proud owner of pet chickens!</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-</br>
+---
 
-## Programming Languages
-
-<div align="center"> 
-
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-</div>
-</br>
-
-## 🛠 Tools
-
-<div align="center"> 
-  
-  [![My Skills](https://skillicons.dev/icons?i=figma,docker,tensorflow,sklearn&theme=dark)](https://skillicons.dev)
-  <!-- <a href="https://skillicons.dev"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dlaravel,django,vue,py,ts,figma%26theme%3Ddark" /> </a>  -->
-</div>
-
-</br>
-
-## 📊 Stats
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FredyRamadhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    </td>
-  </tr>
-</table>
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,php,java,cpp,kotlin&theme=dark" alt="Languages" />
+</p>
 
+### 🌐 Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,django,vue,nodejs,express,flask&theme=dark" alt="Frameworks" />
+</p>
+
+### ⚙️ Tools, AI & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,figma,tensorflow,sklearn,git,linux,postman&theme=dark" alt="Tools & AI" />
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FredyRamadhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Fredy's GitHub Stats" />
+      </td>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FredyRamadhan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FredyRamadhan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+  <a href="mailto:fredytri.ramadhan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/FredyRamadhan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:#1a1b26,50:#284b63,100:#7aa2f7&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
